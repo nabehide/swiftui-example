@@ -17,6 +17,8 @@
 		8B5F71F827EDEABE0094D3CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5F71CE27EDEABC0094D3CA /* ContentView.swift */; };
 		8B5F71F927EDEABE0094D3CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B5F71CF27EDEABE0094D3CA /* Assets.xcassets */; };
 		8B5F71FA27EDEABE0094D3CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B5F71CF27EDEABE0094D3CA /* Assets.xcassets */; };
+		8B5F720A27EDECE40094D3CA /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5F720927EDECE40094D3CA /* CircleImage.swift */; };
+		8B5F720B27EDECE40094D3CA /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5F720927EDECE40094D3CA /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		8B5F71ED27EDEABE0094D3CA /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B5F71F127EDEABE0094D3CA /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		8B5F71F327EDEABE0094D3CA /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		8B5F720927EDECE40094D3CA /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +102,7 @@
 			children = (
 				8B5F71CD27EDEABC0094D3CA /* LandmarksApp.swift */,
 				8B5F71CE27EDEABC0094D3CA /* ContentView.swift */,
+				8B5F720927EDECE40094D3CA /* CircleImage.swift */,
 				8B5F71CF27EDEABE0094D3CA /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -301,6 +305,7 @@
 			files = (
 				8B5F71F727EDEABE0094D3CA /* ContentView.swift in Sources */,
 				8B5F71F527EDEABE0094D3CA /* LandmarksApp.swift in Sources */,
+				8B5F720A27EDECE40094D3CA /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +315,7 @@
 			files = (
 				8B5F71F827EDEABE0094D3CA /* ContentView.swift in Sources */,
 				8B5F71F627EDEABE0094D3CA /* LandmarksApp.swift in Sources */,
+				8B5F720B27EDECE40094D3CA /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
