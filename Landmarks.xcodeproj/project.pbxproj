@@ -234,10 +234,8 @@
 		8B5F721B27EDF2310094D3CA /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				8B5BA3F327F1F18A0036D182 /* CategoryHome.swift */,
-				8B5BA3F627F1F3CB0036D182 /* CategoryRow.swift */,
-				8B5BA3F827F1F6CB0036D182 /* CategoryItem.swift */,
 				8B5BA3E327F1B3F00036D182 /* Badges */,
+				8BF1F15E27F5E0B9000DC149 /* Categories */,
 				8B5BA3EA27F1B6AE0036D182 /* Hikes */,
 				8B5F722D27EF6D830094D3CA /* Landmarks */,
 				8B5F722E27EF6D9F0094D3CA /* Helpers */,
@@ -294,6 +292,16 @@
 				8BF1F15A27F5DACF000DC149 /* ProfileSummary.swift */,
 			);
 			path = Profiles;
+			sourceTree = "<group>";
+		};
+		8BF1F15E27F5E0B9000DC149 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				8B5BA3F327F1F18A0036D182 /* CategoryHome.swift */,
+				8B5BA3F627F1F3CB0036D182 /* CategoryRow.swift */,
+				8B5BA3F827F1F6CB0036D182 /* CategoryItem.swift */,
+			);
+			path = Categories;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
