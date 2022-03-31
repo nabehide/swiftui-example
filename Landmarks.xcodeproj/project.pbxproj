@@ -290,8 +290,8 @@
 		8BF1F15927F5DAB4000DC149 /* Profiles */ = {
 			isa = PBXGroup;
 			children = (
-				8BF1F15727F5DA49000DC149 /* ProfileHost.swift */,
 				8BF1F15F27F5E2AF000DC149 /* ProfileEditor.swift */,
+				8BF1F15727F5DA49000DC149 /* ProfileHost.swift */,
 				8BF1F15A27F5DACF000DC149 /* ProfileSummary.swift */,
 			);
 			path = Profiles;
