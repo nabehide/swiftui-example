@@ -9,9 +9,9 @@ import Foundation
 
 struct Profile {
     var username: String
-    var preferNotifications = true
+    var prefersNotifications = true
     var seasonalPhoto = Season.winter
-    var goalData = Date()
+    var goalDate = Date()
     
     static let `default` = Profile(username: "g_kumar")
     
